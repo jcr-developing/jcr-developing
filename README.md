@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to my profile!
+### About me
+* 🤖 Formed as a Mechatronic Engineer
+* 💻 Professionally trained as a Full Stack Developer
+* 🤓 I am curious and a constant learner
+* 🕺🏽 I love dancing
 
-<!--
-**jcr-developing/jcr-developing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠  Technologies and tools
+* Angular
+* Typescript
+* HTML
+* CSS
+* C#
+* Microdoft SQL
+* Python
+* Visual Studio
 
-Here are some ideas to get you started:
+### 🔍  Contact me
+* Hotmail: josuesalvador5@hotmail.com
+* LinkedIn: [Josue Cervantes][linkedin-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-url]: https://linkedin.com/in/josue-salvador-cervantes-ramirez-txmx
