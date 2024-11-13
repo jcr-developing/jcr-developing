@@ -11,7 +11,7 @@
 * HTML
 * CSS
 * C#
-* Microdoft SQL
+* Microsoft SQL
 * Python
 * Visual Studio
 
